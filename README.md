@@ -3,7 +3,7 @@
 
 
 **Major goal :** Peace , Justice and Strong Institutions
-**Specific goal :** Legal assistance and legal consultantancy
+**Specific goal :** Legal assistance and legal consultancy
 
 **Features Of our Law Minds :**
 1) Client side and legal side login 
